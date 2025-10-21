@@ -18,7 +18,7 @@ Driven by curiosity, clean design, and a love for modern technologies, we create
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,typescript,js,java,python,flask,docker,nginx,html,css" />
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,typescript,js,java,python,flask,docker,nginx,html,css,php,laravel" />
 </p>
 
 ---
